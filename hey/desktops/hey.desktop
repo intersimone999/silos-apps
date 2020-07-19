@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a hey
+GenericName=Hey
+Icon=icons/hey.svg
+MimeType=
+Name=Hey
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

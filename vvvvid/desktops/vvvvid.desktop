@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a vvvvid
+GenericName=VVVVID
+Icon=icons/vvvvid.svg
+MimeType=
+Name=VVVVID
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a raiplay
+GenericName=RaiPlay
+Icon=icons/raiplay.svg
+MimeType=
+Name=RaiPlay
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

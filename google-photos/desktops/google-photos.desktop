@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a google-photos
+GenericName=Google Photos
+Icon=icons/google-photos.svg
+MimeType=
+Name=Google Photos
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

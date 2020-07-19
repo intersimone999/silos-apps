@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a gmail
+GenericName=Gmail
+Icon=
+MimeType=
+Name=Gmail
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a twitch
+GenericName=Twitch
+Icon=icons/twitch.svg
+MimeType=
+Name=Twitch
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

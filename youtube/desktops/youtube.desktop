@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a youtube
+GenericName=Youtube
+Icon=icons/youtube.svg
+MimeType=
+Name=Youtube
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a primevideo
+GenericName=Amazon PrimeVideo
+Icon=icons/primevideo.svg
+MimeType=
+Name=Amazon PrimeVideo
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

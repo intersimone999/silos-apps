@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a google-sheets
+GenericName=Google Sheets
+Icon=icons/google-sheets.svg
+MimeType=
+Name=Google Sheets
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

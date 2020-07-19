@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a office365
+GenericName=Microsoft® Office 365
+Icon=icons/office365.svg
+MimeType=
+Name=Microsoft® Office 365
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

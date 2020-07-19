@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a google-maps
+GenericName=Google Maps
+Icon=icons/google-maps.svg
+MimeType=
+Name=Google Maps
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

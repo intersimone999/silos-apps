@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a netflix
+GenericName=Netflix
+Icon=icons/netflix.svg
+MimeType=
+Name=Netflix
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

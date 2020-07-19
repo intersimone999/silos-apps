@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a wikipedia
+GenericName=Wikipedia
+Icon=icons/wikipedia.svg
+MimeType=
+Name=Wikipedia
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

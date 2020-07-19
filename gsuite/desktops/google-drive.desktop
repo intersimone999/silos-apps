@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a google-drive
+GenericName=Google Drive
+Icon=icons/google-drive.svg
+MimeType=
+Name=Google Drive
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

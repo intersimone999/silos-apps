@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a skype
+GenericName=Skype
+Icon=icons/skype.svg
+MimeType=
+Name=Skype
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
