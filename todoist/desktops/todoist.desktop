@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=
+Exec=silo -a todoist
+GenericName=Todoist
+Icon=icons/todoist.svg
+MimeType=
+Name=Todoist
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
