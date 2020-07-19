@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Wikipedia
 Exec=silo -a wikipedia
 GenericName=Wikipedia
-Icon=icons/wikipedia.svg
+Icon=silo-wikipedia.svg
 MimeType=
 Name=Wikipedia
 Path=

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Google Keep
+Exec=silo -a google-keep
+GenericName=Google Keep
+Icon=silo-google-keep.svg
+MimeType=
+Name=Google Keep
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

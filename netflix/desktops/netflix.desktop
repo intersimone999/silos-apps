@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Netflix
 Exec=silo -a netflix
 GenericName=Netflix
-Icon=icons/netflix.svg
+Icon=silo-netflix.svg
 MimeType=
 Name=Netflix
 Path=

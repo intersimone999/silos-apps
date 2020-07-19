@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Google Travel
+Exec=silo -a google-travel
+GenericName=Google Travel
+Icon=silo-google-travel.svg
+MimeType=
+Name=Google Travel
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

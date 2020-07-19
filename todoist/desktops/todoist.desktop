@@ -1,7 +1,6 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Todoist (TODO manager)
 Exec=silo -a todoist
 GenericName=Todoist
 Icon=silo-todoist.svg

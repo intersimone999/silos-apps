@@ -7,7 +7,7 @@
             }
         ],
         "home": "https://mail.google.com",
-        "icon": "",
+        "icon": "icons/gmail.svg",
         "saveSession": false,
         "menuDisabled": false
 }

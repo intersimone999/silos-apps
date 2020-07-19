@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Google Photos
 Exec=silo -a google-photos
 GenericName=Google Photos
-Icon=icons/google-photos.svg
+Icon=silo-google-photos.svg
 MimeType=
 Name=Google Photos
 Path=

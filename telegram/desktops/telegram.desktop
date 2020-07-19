@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Telegram
+Exec=silo -a telegram
+GenericName=Telegram Web
+Icon=silo-telegram.svg
+MimeType=
+Name=Telegram Web
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

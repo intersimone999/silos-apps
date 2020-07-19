@@ -1,11 +1,11 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for YouTube
 Exec=silo -a youtube
-GenericName=Youtube
-Icon=icons/youtube.svg
+GenericName=YouTube
+Icon=silo-youtube.svg
 MimeType=
-Name=Youtube
+Name=YouTube
 Path=
 StartupNotify=true
 Terminal=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Trenitalia (Italian train operator)
+Exec=silo -a trenitalia
+GenericName=Trenitalia
+Icon=silo-trenitalia.svg
+MimeType=
+Name=Trenitalia
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

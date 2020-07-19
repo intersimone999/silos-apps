@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Raiplay (Italian national TV public broadcast)
 Exec=silo -a raiplay
 GenericName=RaiPlay
-Icon=icons/raiplay.svg
+Icon=silo-raiplay.svg
 MimeType=
 Name=RaiPlay
 Path=

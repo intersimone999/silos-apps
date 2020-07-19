@@ -1,11 +1,11 @@
 [Desktop Entry]
 Categories=Internet
 Comment=Standalone silo apps for the Google office suite (Drive, Documents and Sheets)
-Exec=silo -a google-drive
-GenericName=Google Drive
-Icon=silo-google-drive.svg
+Exec=silo -a google-documents
+GenericName=Google Documents
+Icon=silo-google-documents.svg
 MimeType=
-Name=Google Drive
+Name=Google Documents
 Path=
 StartupNotify=true
 Terminal=false

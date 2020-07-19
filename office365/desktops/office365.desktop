@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Microsoft Office365 suite
 Exec=silo -a office365
 GenericName=Microsoft® Office 365
-Icon=icons/office365.svg
+Icon=silo-office365.svg
 MimeType=
 Name=Microsoft® Office 365
 Path=

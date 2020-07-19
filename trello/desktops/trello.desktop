@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Trello
+Exec=silo -a trello
+GenericName=Trello
+Icon=silo-trello.svg
+MimeType=
+Name=Trello
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

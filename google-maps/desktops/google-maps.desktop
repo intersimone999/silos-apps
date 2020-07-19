@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Google Maps
 Exec=silo -a google-maps
 GenericName=Google Maps
-Icon=icons/google-maps.svg
+Icon=silo-google-maps.svg
 MimeType=
 Name=Google Maps
 Path=

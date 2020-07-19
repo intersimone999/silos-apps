@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Booking.com
+Exec=silo -a booking
+GenericName=Booking.com
+Icon=silo-booking.svg
+MimeType=
+Name=Booking.com
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

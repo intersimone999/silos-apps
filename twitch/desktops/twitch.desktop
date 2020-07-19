@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Twitch
 Exec=silo -a twitch
 GenericName=Twitch
-Icon=icons/twitch.svg
+Icon=silo-twitch.svg
 MimeType=
 Name=Twitch
 Path=

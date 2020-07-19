@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for Hey.com
 Exec=silo -a hey
 GenericName=Hey
-Icon=icons/hey.svg
+Icon=silo-hey.svg
 MimeType=
 Name=Hey
 Path=

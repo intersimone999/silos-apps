@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Silo app for GMail
 Exec=silo -a gmail
 GenericName=Gmail
-Icon=
+Icon=silo-gmail.svg
 MimeType=
 Name=Gmail
 Path=

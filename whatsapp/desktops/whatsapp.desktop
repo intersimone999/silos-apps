@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for WhatsApp
 Exec=silo -a whatsapp
 GenericName=WhatsApp Web
-Icon=icons/whatsapp.svg
+Icon=silo-whatsapp.svg
 MimeType=
 Name=WhatsApp Web
 Path=

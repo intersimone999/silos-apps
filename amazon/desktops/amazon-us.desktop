@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Amazon (US and IT versions)
+Exec=silo -a amazon-us
+GenericName=Amazon.com
+Icon=silo-amazon.svg
+MimeType=
+Name=Amazon.com
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

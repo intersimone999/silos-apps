@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=Internet
-Comment=
+Comment=Standalone silo app for VVVVID
 Exec=silo -a vvvvid
 GenericName=VVVVID
-Icon=icons/vvvvid.svg
+Icon=silo-vvvvid.svg
 MimeType=
 Name=VVVVID
 Path=
