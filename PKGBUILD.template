@@ -4,7 +4,7 @@ _appdesc="%s"
 _gittag="%s"
 
 _gitname=silos-apps
-pkgname="silos-${_appname}"
+pkgname="silo-${_appname}"
 pkgver=$_gittag
 pkgrel=1
 pkgdesc="${_appdesc}"
