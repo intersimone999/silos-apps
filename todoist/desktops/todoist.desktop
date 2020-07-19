@@ -1,9 +1,10 @@
+#!/usr/bin/env xdg-open
 [Desktop Entry]
 Categories=Internet
 Comment=
 Exec=silo -a todoist
 GenericName=Todoist
-Icon=icons/todoist.svg
+Icon=silo-todoist.svg
 MimeType=
 Name=Todoist
 Path=
