@@ -1,0 +1,41 @@
+PACKAGER='Simone Scalabrino <s.scalabrino9@gmail.com>'
+_appname="%s"
+_appdesc="%s"
+_gittag="%s"
+
+_gitname=silos-apps
+pkgname="silos-${_appname}"
+pkgver=$_gittag
+pkgrel=1
+pkgdesc="${_appdesc}"
+arch=('i686' 'x86_64')
+url="https://github.com/intersimone999/${_gitname}"
+license=('MIT')
+depends=('silos')
+makedepends=('git')
+source=("git+${url}.git")
+sha256sums=('SKIP')
+
+package() {
+    cd "${srcdir}/${_gitname}/${_appname}"
+        
+    for f in icons/*.svg
+    do
+        target=$(basename "$f")
+        install -Dm755 "$f" "${pkgdir}/usr/share/pixmaps/silo-$target"
+    done
+    
+    for f in desktops/*.desktop
+    do
+        target=$(basename "$f")
+        install -Dm755 "$f" "${pkgdir}/usr/share/applications/silo-$target"
+    done
+    
+    appsfolder=$(python -c "import os;import pyqtws as _; print(os.path.dirname(_.__file__)+\"/apps\")")
+    for f in apps/*.qtws
+    do
+        target=$(basename "$f")
+        install -Dm755 "$f" "${pkgdir}${appsfolder}/$target"
+    done
+}
+ 
