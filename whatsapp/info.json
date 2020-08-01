@@ -1,3 +1,4 @@
 {
-    "desc": "Standalone silo app for WhatsApp"
+    "desc": "Standalone silo app for WhatsApp",
+    "dependencies": ["python-pystray"]
 }

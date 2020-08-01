@@ -1,3 +1,4 @@
 {
-    "desc": "Standalone silo app for Telegram"
+    "desc": "Standalone silo app for Telegram",
+    "dependencies": ["python-pystray"]
 }

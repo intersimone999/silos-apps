@@ -1,4 +1,4 @@
-PACKAGER='Simone Scalabrino <s.scalabrino9@gmail.com>'
+# Maintainer: Simone Scalabrino <s.scalabrino9@gmail.com>
 _appname="%s"
 _appdesc="%s"
 _gittag="%s"
@@ -10,10 +10,10 @@ pkgrel=1
 pkgdesc="${_appdesc}"
 arch=('i686' 'x86_64')
 url="https://github.com/intersimone999/${_gitname}"
-license=('GPLv3')
-depends=('silos')
+license=('GPL3')
+depends=(%s)
 makedepends=('git')
-source=("git+${url}.git")
+source=("git+$url.git#tag=$_gittag")
 sha256sums=('SKIP')
 
 package() {
