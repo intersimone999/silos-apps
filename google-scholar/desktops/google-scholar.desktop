@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Google Scholar
+Exec=silo -a google-scholar
+GenericName=Google Scholar
+Icon=silo-google-scholar.svg
+MimeType=
+Name=Google Scholar
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

@@ -1,0 +1,22 @@
+{
+        "name": "Google Scholar",
+        "scope": ["https?\\:\\/\\/scholar\\.google\\.com(?:\\/.*|)", "https?\\:\\/\\/scholar\\.googleusercontent\\.com(?:\\/.*|)"],
+        "plugins": [
+            {
+                "name": "GoogleAuthentication"
+            }
+        ],
+        "home": "https://scholar.google.com",
+        "icon": "icons/google-scholar.svg",
+        "saveSession": false,
+        "menu": [
+            {
+                "title": "Search",
+                "action": "https://scholar.google.com/"
+            },
+            {
+                "title": "My profile",
+                "action": "https://scholar.google.com/citations"
+            }
+        ]
+}
