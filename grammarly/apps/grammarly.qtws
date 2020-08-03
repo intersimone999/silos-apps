@@ -1,0 +1,12 @@
+{
+        "name": "Grammarly",
+        "description": "Grammarly webapp",
+        "scope": ["https:\\/\\/app.grammarly.com"],
+        "plugins": [
+            { "name": "GoogleAuthentication" }
+        ],
+        "home": "https://app.grammarly.com",
+        "icon": "icons/grammarly.svg",
+        "saveSession": false,
+        "menu": []
+}

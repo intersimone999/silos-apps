@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Grammarly
+Exec=silo -a grammarly
+GenericName=Grammarly
+Icon=silo-grammarly.svg
+MimeType=
+Name=Grammarly
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
