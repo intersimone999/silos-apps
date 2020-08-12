@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Overleaf
+Exec=silo -a overleaf
+GenericName=Overleaf
+Icon=silo-overleaf.svg
+MimeType=
+Name=Overleaf
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application

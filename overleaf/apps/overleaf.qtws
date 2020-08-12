@@ -1,0 +1,11 @@
+{
+        "name": "Overleaf",
+        "scope": ["https?\\:\\/\\/[^.]+\\.overleaf\\.com(?:\\/.*|)"],
+        "plugins": [
+            { "name": "GoogleAuthentication" }
+        ],
+        "home": "https://overleaf.com/project",
+        "icon": "icons/overleaf.svg",
+        "saveSession": false,
+        "menu": []
+}
