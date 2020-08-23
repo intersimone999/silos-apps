@@ -6,6 +6,6 @@
         ],
         "home": "http://netflix.com",
         "icon": "icons/netflix.svg",
-        "saveSession": true,
+        "saveSession": false,
         "multimedia": true
 }
