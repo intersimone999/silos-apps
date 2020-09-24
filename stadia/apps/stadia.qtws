@@ -1,0 +1,13 @@
+{
+        "name": "Google Stadia",
+        "scope": ["https:\\/\\/stadia.google.com\\/.*"],
+        "plugins": [
+            {
+                "name": "GoogleAuthentication"
+            }
+        ],
+        "home": "https://stadia.google.com",
+        "icon": "icons/stadia.svg",
+        "saveSession": false,
+        "menuDisabled": false
+}

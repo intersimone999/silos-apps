@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Silo app for Google Stadia
+Exec=silo -a stadia
+GenericName=Gmail
+Icon=silo-stadia
+MimeType=
+Name=Google Stadia
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
