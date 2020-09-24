@@ -1,8 +1,8 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Game
 Comment=Silo app for Google Stadia
 Exec=silo -a stadia
-GenericName=Gmail
+GenericName=Google Stadia
 Icon=silo-stadia
 MimeType=
 Name=Google Stadia
