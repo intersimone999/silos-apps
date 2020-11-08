@@ -1,3 +1,4 @@
 {
-    "desc": "Standalone silo app for Twitch"
+    "desc": "Standalone silo app for Twitch",
+    "version": "0.2"
 }
