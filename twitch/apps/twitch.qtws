@@ -2,7 +2,8 @@
         "name": "Twitch",
         "scope": ["twitch.tv"],
         "plugins": [
-            { "name": "Multimedia" }
+            { "name": "Multimedia" },
+            { "name": "FloatingWindow" }
         ],
         "home": "http://twitch.tv",
         "icon": "icons/twitch.svg",

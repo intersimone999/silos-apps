@@ -2,7 +2,8 @@
         "name": "Netflix",
         "scope": ["netflix.com"],
         "plugins": [
-            { "name" : "Multimedia" }
+            { "name": "Multimedia" },
+            { "name": "FloatingWindow" }
         ],
         "home": "http://netflix.com",
         "icon": "icons/netflix.svg",

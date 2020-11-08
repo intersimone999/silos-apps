@@ -1,3 +1,5 @@
 {
-    "desc": "Standalone silo app for Amazon Primevideo"
+    "desc": "Standalone silo app for Amazon Primevideo",
+    "dependencies": ["chromium-widevine"],
+    "version": "0.2"
 }

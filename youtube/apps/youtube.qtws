@@ -2,7 +2,8 @@
         "name": "YouTube",
         "scope": ["https?:\\/\\/(?:[^.]*\\.|)youtube\\.com(?:\\/.*|)", "https?:\\/\\/youtu\\.be(?:\\/.*|)", "https:\\/\\/accounts.google.com(?:\\/.*|)"],
         "plugins": [
-            { "name" : "Multimedia" }
+            { "name" : "Multimedia" },
+            { "name": "FloatingWindow" }
         ],
         "home": "http://youtube.com",
         "icon": "icons/youtube.svg",

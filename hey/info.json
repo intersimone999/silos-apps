@@ -1,4 +1,5 @@
 {
     "desc": "Standalone silo app for Hey.com",
-    "dependencies": ["python-pystray"] 
+    "dependencies": ["python-pystray"],
+    "version": "0.1"
 }

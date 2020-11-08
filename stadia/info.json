@@ -1,4 +1,5 @@
 {
     "desc": "Silo app for Google Stadia",
-    "category": "Game"
+    "category": "Game",
+    "version": "0.2"
 }

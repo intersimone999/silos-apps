@@ -1,3 +1,4 @@
 {
-    "desc": "Standalone silo app for Booking.com"
+    "desc": "Standalone silo app for Booking.com",
+    "version": "0.1"
 }

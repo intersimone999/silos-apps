@@ -1,9 +1,11 @@
 {
-        "name": "Amazon PrimeVideo",
+        "name": "PrimeVideo",
         "scope": ["primevideo.com"],
-        "plugins": [],
+        "plugins": [ 
+            { "name" : "Multimedia" },
+            { "name": "FloatingWindow" }
+        ],
         "home": "http://primevideo.com",
         "icon": "icons/primevideo.svg",
-        "saveSession": true,
-        "multimedia": true
+        "saveSession": false
 }

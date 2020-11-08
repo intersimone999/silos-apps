@@ -1,3 +1,4 @@
 {
-    "desc": "Standalone silo app for Todoist (TODO manager)"
+    "desc": "Standalone silo app for Todoist (TODO manager)",
+    "version": "0.1"
 }
