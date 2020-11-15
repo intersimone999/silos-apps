@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet;Multimedia;
+Categories=Internet;AudioVideo;
 Comment=Standalone silo app for Twitch
 Exec=silo -a twitch
 GenericName=Twitch
