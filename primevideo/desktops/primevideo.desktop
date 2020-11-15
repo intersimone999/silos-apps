@@ -1,11 +1,11 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Multimedia;
 Comment=Standalone silo app for Amazon Primevideo
 Exec=silo -a primevideo
-GenericName=Amazon PrimeVideo
+GenericName=PrimeVideo
 Icon=silo-primevideo
 MimeType=
-Name=Amazon PrimeVideo
+Name=PrimeVideo
 Path=
 StartupNotify=true
 Terminal=false

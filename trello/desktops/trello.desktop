@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Office;
 Comment=Standalone silo app for Trello
 Exec=silo -a trello
 GenericName=Trello

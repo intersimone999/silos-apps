@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Office;
 Comment=Standalone silo app for Microsoft Office365 suite
 Exec=silo -a office365
 GenericName=Microsoft® Office 365

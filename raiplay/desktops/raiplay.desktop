@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Multimedia;
 Comment=Standalone silo app for Raiplay (Italian national TV public broadcast)
 Exec=silo -a raiplay
 GenericName=RaiPlay

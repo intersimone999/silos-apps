@@ -1,5 +1,6 @@
 {
     "desc": "Standalone silo app for Netflix",
     "dependencies": ["chromium-widevine"],
-    "version": "0.3"
+    "category": "Internet;Multimedia;",
+    "version": "0.4"
 }

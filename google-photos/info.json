@@ -1,4 +1,5 @@
 {
     "desc": "Standalone silo app for Google Photos",
-    "version": "0.1"
+    "category": "Internet;Graphics;",
+    "version": "0.2"
 }

@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Multimedia;
 Comment=Standalone silo app for Netflix
 Exec=silo -a netflix
 GenericName=Netflix

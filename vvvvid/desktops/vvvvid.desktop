@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Multimedia;
 Comment=Standalone silo app for VVVVID
 Exec=silo -a vvvvid
 GenericName=VVVVID

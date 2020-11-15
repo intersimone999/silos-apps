@@ -1,3 +1,5 @@
 {
-    "desc": "Standalone silo app for VVVVID"
+    "desc": "Standalone silo app for VVVVID",
+    "category": "Internet;Multimedia;",
+    "version": "0.2"
 }

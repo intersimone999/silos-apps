@@ -1,4 +1,5 @@
 {
     "desc": "Standalone silo app for Todoist (TODO manager)",
-    "version": "0.1"
+    "category": "Internet;Office;",
+    "version": "0.2"
 }

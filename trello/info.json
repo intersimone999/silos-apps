@@ -1,3 +1,5 @@
 {
-    "desc": "Standalone silo app for Trello"
+    "desc": "Standalone silo app for Trello",
+    "category": "Internet;Office;",
+    "version": "0.2"
 }

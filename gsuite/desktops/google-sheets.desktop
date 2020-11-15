@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Office;
 Comment=Standalone silo apps for the Google office suite (Drive, Documents and Sheets)
 Exec=silo -a google-sheets
 GenericName=Google Sheets

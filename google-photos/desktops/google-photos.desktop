@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Graphics;
 Comment=Standalone silo app for Google Photos
 Exec=silo -a google-photos
 GenericName=Google Photos

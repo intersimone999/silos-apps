@@ -1,3 +1,5 @@
 {
-    "desc": "Standalone silo app for Overleaf"
+    "desc": "Standalone silo app for Overleaf",
+    "category": "Internet;Office;",
+    "version": "0.2"
 }

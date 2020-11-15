@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Game
+Categories=Internet;Game;
 Comment=Silo app for Google Stadia
 Exec=silo -a stadia
 GenericName=Google Stadia

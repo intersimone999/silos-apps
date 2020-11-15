@@ -1,3 +1,4 @@
 {
-    "desc": "Standalone silo app for Wikipedia"
+    "desc": "Standalone silo app for Wikipedia",
+    "version": "0.1"
 }

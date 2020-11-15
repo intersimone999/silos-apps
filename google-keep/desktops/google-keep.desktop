@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Office;
 Comment=Standalone silo app for Google Keep
 Exec=silo -a google-keep
 GenericName=Google Keep

@@ -1,4 +1,5 @@
 {
     "desc": "Standalone silo app for Grammarly",
-    "version": "0.1"
+    "category": "Internet;Utilities;",
+    "version": "0.2"
 }

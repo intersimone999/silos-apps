@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Internet
+Categories=Internet;Utilities;
 Comment=Standalone silo app for Grammarly
 Exec=silo -a grammarly
 GenericName=Grammarly
