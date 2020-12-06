@@ -1,5 +1,5 @@
 {
-    "desc": "Standalone silo apps for the Google office suite (Drive, Documents and Sheets)",
-    "category": "Internet;Office;",
-    "version": "0.2"
+  "desc": "Standalone silo apps for the Google office suite (Drive, Documents and Sheets)",
+  "category": "Internet;Office;",
+  "version": "0.3"
 }

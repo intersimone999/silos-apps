@@ -1,5 +1,7 @@
 {
-    "desc": "Standalone silo app for WhatsApp",
-    "dependencies": ["python-pystray"],
-    "version": "0.2"
+  "desc": "Standalone silo app for WhatsApp",
+  "dependencies": [
+    "python-pystray"
+  ],
+  "version": "0.3"
 }

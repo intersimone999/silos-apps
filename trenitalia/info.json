@@ -1,3 +1,4 @@
 {
-    "desc": "Standalone silo app for Trenitalia (Italian train operator)"
+    "desc": "Standalone silo app for Trenitalia (Italian train operator)",
+    "version": "0.1"
 }
