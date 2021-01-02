@@ -1,6 +1,6 @@
 {
         "name": "Microsoft® Office 365",
-        "scope": ["https?:\\/\\/www\\.office\\.com\\/.*", "https?:\\/\\/.*\\.microsoftonline\\.com\\/.*", "https?:\\/\\/.*\\.sharepoint\\.com\\/.*", "https?:\\/\\/.*\\.onenote\\.com\\/.*"],
+        "scope": ["https?:\\/\\/www\\.office\\.com\\/.*", "https?:\\/\\/.*\\.microsoftonline\\.com\\/.*", "https?:\\/\\/.*\\.sharepoint\\.com\\/.*", "https?:\\/\\/.*\\.onenote\\.com\\/.*", "https?:\\/\\/1drv\\.ms\\/.*", "https?:\\/\\/onedrive\\.live\\.com\\/.*"],
         "plugins": [],
         "home": "https://www.office.com",
         "icon": "icons/office365.svg",
