@@ -1,6 +1,10 @@
 {
         "name": "Google Drive",
-        "scope": ["https?\\:\\/\\/.*\\.google\\.com\\/drive(?:\\/.*|)", "https?\\:\\/\\/drive\\.google\\.com(?:\\/.*|)"],
+        "scope": [
+            "https?\\:\\/\\/.*\\.google\\.com\\/drive(?:\\/.*|)",
+            "https?\\:\\/\\/drive\\.google\\.com(?:\\/.*|)", 
+            "https?\\:\\/\\/.*\\.googleusercontent.com(?:\\/.*|)"
+        ],
         "plugins": [
             { "name": "GoogleAuthentication" }
         ],
