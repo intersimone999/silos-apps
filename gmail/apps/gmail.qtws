@@ -3,7 +3,8 @@
         "scope": ["https:\\/\\/mail.google.com\\/.*"],
         "plugins": [
             {
-                "name": "GoogleAuthentication"
+                "name": "GoogleAuthentication",
+                "name": "MultiProfile"
             }
         ],
         "home": "https://mail.google.com",
