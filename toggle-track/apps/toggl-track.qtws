@@ -1,0 +1,10 @@
+{
+        "name": "toggl track",
+        "description": "Time tracking webapp",
+        "scope": ["https:\\/\\/track.toggl.com/"],
+        "plugins": [],
+        "home": "https://track.toggl.com/",
+        "icon": "icons/toggl-track.svg",
+        "saveSession": false,
+        "menu": []
+}
