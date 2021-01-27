@@ -1,0 +1,15 @@
+{
+        "name": "Google Meet",
+        "scope": ["https\\:\\/\\/meet\\.google\\.com"],
+        "plugins": [
+            {"name": "GoogleAuthentication"},
+            {"name": "WebRTC"},
+            {"name": "Notifications"},
+            {"name": "ChangeUserAgent", "user-agent": "chrome"}
+        ],
+        "home": "https://meet.google.com/",
+        "icon": "icons/google-meet.svg",
+        "saveSession": false,
+        "menuDisabled": false,
+        "download": true
+}
