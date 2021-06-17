@@ -1,0 +1,14 @@
+{
+    "name": "Teams",
+    "scope": ["https?\\:\\/\\/teams\\.microsoft\\.com(?:\\/.*|)", "https?:\\/\\/.*\\.microsoftonline\\.com(?:\\/.*|)", "https?:\\/\\/.*\\.office\\.net(?:\\/.*|)"],
+    "plugins": [
+        { "name": "WebRTC" },
+        { "name": "Notifications" },
+        { "name": "ChangeUserAgent", "user-agent": "chrome" }
+    ],
+    "home": "https://teams.microsoft.com/",
+    "icon": "icons/teams.svg",
+    "saveSession": true,
+    "menuDisabled": false,
+    "download": true
+}
