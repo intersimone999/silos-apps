@@ -1,0 +1,11 @@
+{
+        "name": "Google Slides",
+        "scope": ["https?\\:\\/\\/docs\\.google\\.com\\/slides(?:\\/.*|)", "https?\\:\\/\\/slides\\.google\\.com(?:\\/.*|)"],
+        "plugins": [
+            { "name": "GoogleAuthentication" }
+        ],
+        "home": "http://docs.google.com/slides",
+        "icon": "icons/google-slides.svg",
+        "saveSession": false,
+        "download": true
+}

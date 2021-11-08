@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;Office;
+Comment=Standalone silo apps for the Google office suite (Drive, Documents, Sheets, and Slides)
+Exec=silo -a google-slides
+GenericName=Google Slides
+Icon=silo-google-slides
+MimeType=
+Name=Google Slides
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-google-slides
