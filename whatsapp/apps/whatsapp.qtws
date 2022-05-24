@@ -2,9 +2,10 @@
         "name": "WhatsApp Web",
         "scope": ["https?\\:\\/\\/web\\.whatsapp\\.com(?:\\/.*|)"],
         "plugins": [
-            { "name": "ChangeUserAgent", "user-agent": "chrome" }, 
+            { "name": "ChangeUserAgent", "user-agent": "firefox" }, 
             { "name": "Notifications" },
-            { "name": "TrayIcon" }
+            { "name": "TrayIcon" },
+            { "name": "AlwaysAnonymous" }
         ],
         "home": "https://web.whatsapp.com/",
         "icon": "icons/whatsapp.svg",
