@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Office
+Comment=Standalone silo app for Google Calendar
+Exec=silo -a google-calendar
+GenericName=Google Calendar
+Icon=silo-google-calendar
+MimeType=
+Name=Google Calendar
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-google-calendar
