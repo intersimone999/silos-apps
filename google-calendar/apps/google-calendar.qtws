@@ -5,7 +5,8 @@
             {"name": "GoogleAuthentication"},
             {"name": "WebRTC"},
             {"name": "Notifications"},
-            {"name": "ChangeUserAgent", "user-agent": "chrome"}
+            {"name": "ChangeUserAgent", "user-agent": "chrome"},
+            { "name": "TrayIcon" }
         ],
         "home": "https://calendar.google.com/",
         "icon": "icons/google-calendar.svg",
