@@ -4,7 +4,8 @@
         "plugins": [
             { "name": "ChangeUserAgent", "user-agent": "chrome" }, 
             { "name": "Notifications" },
-            { "name": "TrayIcon" }
+            { "name": "TrayIcon" },
+            { "name": "SingleInstance" }
         ],
         "home": "https://web.telegram.org/",
         "icon": "icons/telegram.svg",
