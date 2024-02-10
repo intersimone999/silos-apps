@@ -1,6 +1,6 @@
 {
         "name": "Teams",
-        "scope": ["https\\:\\/\\/teams\\.microsoft\\.com", "https\\:\\/\\/login\\.live\\.com\\/login.*"],
+        "scope": ["https\\:\\/\\/teams\\.microsoft\\.com", "https\\:\\/\\/login\\.microsoftonline\\.com\\/common\\/oauth2.*"],
         "plugins": [
             {"name": "WebRTC"},
             {"name": "Notifications"},
