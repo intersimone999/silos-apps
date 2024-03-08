@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;AudioVideo;
+Comment=Standalone silo app for YouTube
+Exec=silo -a youtube-music
+GenericName=YouTube Music
+Icon=silo-youtube-music
+MimeType=
+Name=YouTube Music
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-youtube-music

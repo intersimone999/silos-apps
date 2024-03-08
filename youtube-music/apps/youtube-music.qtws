@@ -1,0 +1,12 @@
+{
+        "name": "YouTube Music",
+        "scope": ["https?:\\/\\/music.youtube\\.com(?:\\/.*|)", "https:\\/\\/accounts.google.com(?:\\/.*|)"],
+        "plugins": [
+            { "name" : "Multimedia", "previous-button-class" : "previous-button" },
+            { "name":  "FloatingWindow" },
+            { "name": "GoogleAuthentication" }
+        ],
+        "home": "http://music.youtube.com",
+        "icon": "icons/youtube-music.svg",
+        "saveSession": false
+}
