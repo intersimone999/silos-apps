@@ -4,7 +4,9 @@
         "plugins": [
             { "name" : "Multimedia", "previous-button-class" : "previous-button" },
             { "name":  "FloatingWindow" },
-            { "name": "GoogleAuthentication" }
+            { "name": "GoogleAuthentication" },
+            {"name": "TrayIcon" },
+            { "name": "SingleInstance" }
         ],
         "home": "http://music.youtube.com",
         "icon": "icons/youtube-music.svg",
