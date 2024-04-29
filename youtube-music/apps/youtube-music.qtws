@@ -3,9 +3,9 @@
         "scope": ["https?:\\/\\/music.youtube\\.com(?:\\/.*|)", "https:\\/\\/accounts.google.com(?:\\/.*|)"],
         "plugins": [
             { "name" : "Multimedia", "previous-button-class" : "previous-button" },
-            { "name":  "FloatingWindow" },
             { "name": "GoogleAuthentication" },
-            {"name": "TrayIcon" },
+            { "name": "MultiProfile" },
+            { "name": "TrayIcon" },
             { "name": "SingleInstance" }
         ],
         "home": "http://music.youtube.com",

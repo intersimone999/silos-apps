@@ -1,7 +1,7 @@
 {
         "name": "Grammarly",
         "description": "Grammarly webapp",
-        "scope": ["https:\\/\\/app.grammarly.com"],
+        "scope": ["https:\\/\\/.*\\.grammarly\\.com\\/.*"],
         "plugins": [
             { "name": "GoogleAuthentication" }
         ],

@@ -1,6 +1,6 @@
 {
         "name": "Trello",
-        "scope": ["https?:\\/\\/(?:[^.]*\\.|)trello\\.com(?:\\/.*|)"],
+        "scope": ["https?:\\/\\/(?:[^.]*\\.|)trello\\.com(?:\\/.*|)", "https?:\\/\\/id\\.atlassian\\.com/login.*"],
         "home": "https://trello.com",
         "plugins": [
             {
