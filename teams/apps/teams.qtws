@@ -5,7 +5,6 @@
             {"name": "WebRTC"},
             { "name": "Notifications" },
             { "name": "TrayIcon" },
-            { "name": "AlwaysAnonymous" },
             { "name": "SingleInstance" }
         ],
         "home": "https://teams.microsoft.com/",
