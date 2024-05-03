@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet
+Comment=Standalone silo app for Microsoft Teams
+Exec=silo -a teams
+GenericName=Microsoft Teams
+Icon=silo-teams
+MimeType=
+Name=Microsoft Teams
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-teams

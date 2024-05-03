@@ -1,0 +1,16 @@
+{
+        "name": "Microsoft Teams",
+        "scope": ["https\\:\\/\\/teams\\.microsoft\\.com", "https?:\\/\\/.*\\.microsoftonline\\.com\\/.*", "https?:\\/\\/.*\\.sharepoint\\.com\\/.*", "https?:\\/\\/.*\\.onenote\\.com\\/.*", "https?:\\/\\/1drv\\.ms\\/.*", "https?:\\/\\/onedrive\\.live\\.com\\/.*"],
+        "plugins": [
+            {"name": "WebRTC"},
+            { "name": "Notifications" },
+            { "name": "TrayIcon" },
+            { "name": "AlwaysAnonymous" },
+            { "name": "SingleInstance" }
+        ],
+        "home": "https://teams.microsoft.com/",
+        "icon": "icons/teams.svg",
+        "saveSession": false,
+        "menuDisabled": false,
+        "download": true
+}
