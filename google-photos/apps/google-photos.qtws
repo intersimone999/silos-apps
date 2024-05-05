@@ -1,6 +1,6 @@
 {
         "name": "Google Photos",
-        "scope": ["https?\\:\\/\\/photos\\.google\\.com(?:\\/.*|)"],
+        "scope": ["https?\\:\\/\\/photos\\.google\\.com(?:\\/.*|)", "https?\\:\\/\\/.*\\.googleusercontent.com(?:\\/.*|)"],
         "plugins": [
             { "name": "GoogleAuthentication" }
         ],
