@@ -6,7 +6,8 @@
             "https?\\:\\/\\/.*\\.googleusercontent.com(?:\\/.*|)"
         ],
         "plugins": [
-            { "name": "GoogleAuthentication" }
+            { "name": "GoogleAuthentication" },
+            { "name": "MultiProfile" }
         ],
         "home": "http://drive.google.com",
         "icon": "icons/google-drive.svg",

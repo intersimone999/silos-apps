@@ -2,7 +2,8 @@
         "name": "Google Slides",
         "scope": ["https?\\:\\/\\/docs\\.google\\.com\\/slides(?:\\/.*|)", "https?\\:\\/\\/docs\\.google\\.com\\/presentation(?:\\/.*|)", "https?\\:\\/\\/slides\\.google\\.com(?:\\/.*|)"],
         "plugins": [
-            { "name": "GoogleAuthentication" }
+            { "name": "GoogleAuthentication" },
+            { "name": "MultiProfile" }
         ],
         "home": "http://docs.google.com/slides",
         "icon": "icons/google-slides.svg",

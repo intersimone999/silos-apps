@@ -2,7 +2,8 @@
         "name": "Google Documents",
         "scope": ["https?\\:\\/\\/docs\\.google\\.com\\/document(?:\\/.*|)"],
         "plugins": [
-            { "name": "GoogleAuthentication" }
+            { "name": "GoogleAuthentication" },
+            { "name": "MultiProfile" }
         ],
         "home": "http://docs.google.com/document",
         "icon": "icons/google-documents.svg",
