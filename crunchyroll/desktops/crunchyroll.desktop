@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;AudioVideo;
+Comment=Standalone silo app for Crunchyroll
+Exec=silo -a crunchyroll
+GenericName=Crunchyroll
+Icon=silo-crunchyroll
+MimeType=
+Name=Crunchyroll
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-crunchyroll

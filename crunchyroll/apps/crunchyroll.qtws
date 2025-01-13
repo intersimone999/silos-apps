@@ -1,0 +1,11 @@
+{
+        "name": "Crunchyroll",
+        "scope": ["crunchyroll.com"],
+        "plugins": [
+            { "name": "Multimedia" }
+        ],
+        "home": "https://www.crunchyroll.com",
+        "icon": "icons/netflix.svg",
+        "saveSession": false,
+        "multimedia": true
+}

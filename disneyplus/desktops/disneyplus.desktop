@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;AudioVideo;
+Comment=Standalone silo app for Disney+
+Exec=silo -a disneyplus
+GenericName=Disney+
+Icon=silo-disneyplus
+MimeType=
+Name=Disney+
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-disneyplus

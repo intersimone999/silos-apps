@@ -1,0 +1,11 @@
+{
+        "name": "Disney+",
+        "scope": ["disneyplus.com"],
+        "plugins": [
+            { "name": "Multimedia" }
+        ],
+        "home": "https://www.disneyplus.com",
+        "icon": "icons/disneyplus.svg",
+        "saveSession": false,
+        "multimedia": true
+}

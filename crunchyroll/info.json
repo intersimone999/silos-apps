@@ -1,0 +1,8 @@
+{
+  "desc": "Standalone silo app for Crunchyroll",
+  "dependencies": [
+    "chromium-widevine"
+  ],
+  "category": "Internet;AudioVideo;",
+  "version": "1.0"
+}
