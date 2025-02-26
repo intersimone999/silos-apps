@@ -5,7 +5,6 @@
             { "name": "ChangeUserAgent", "user-agent": "firefox" }, 
             { "name": "Notifications" },
             { "name": "TrayIcon" },
-            { "name": "AlwaysAnonymous" },
             { "name": "SingleInstance" }
         ],
         "home": "https://web.whatsapp.com/",
