@@ -2,7 +2,7 @@
         "name": "Gmail",
         "scope": ["https:\\/\\/mail.google.com\\/.*"],
         "plugins": [
-            {"name": "MultiProfile"}
+            {"name": "MultiProfile"},
             {"name": "GoogleAuthentication"},
             {"name": "WebRTC"},
             {"name": "Notifications"},
