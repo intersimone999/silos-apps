@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;Utilities;
+Comment=Standalone silo app for toggle-track
+Exec=silo -a toggl-track
+GenericName=toggl track
+Icon=silo-toggl-track
+MimeType=
+Name=toggl track
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-toggl-track
